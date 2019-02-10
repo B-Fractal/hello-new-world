@@ -1,3 +1,3 @@
 # hello-new-world
 My second try!
-I am new in his.
+I am new in this.
